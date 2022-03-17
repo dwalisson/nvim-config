@@ -13,11 +13,11 @@ require('keys')      -- Keymaps
 require('plug')      -- Plugins
 
 -- PLUGINS: Add this section
-require('nvim-tree').setup{}
+--require('nvim-tree').setup{}
 
-require('lualine').setup {
-  options = {
-    theme = 'dracula-nvim'
-  }
-}
-require('nvim-autopairs').setup{}
+--require('lualine').setup {
+--  options = {
+--    theme = 'dracula-nvim'
+--  }
+--}
+--require('nvim-autopairs').setup{}
