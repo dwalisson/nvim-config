@@ -1,6 +1,6 @@
 # nvim-config
 
-##My nvim configuration in Lua##
+## My nvim configuration in Lua
 
 1. Install [Nerd Fonts](https://www.nerdfonts.com/) (*ttf-nerd-fonts-symbols* in Arch distributions);
 
